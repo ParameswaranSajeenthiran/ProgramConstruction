@@ -1,0 +1,12 @@
+testing file writing 
+ test 
+ value of the string is 0
+ value of the string is 1
+ value of the string is 2
+ value of the string is 3
+ value of the string is 4
+ value of the string is 5
+ value of the string is 6
+ value of the string is 7
+ value of the string is 8
+ value of the string is 9
